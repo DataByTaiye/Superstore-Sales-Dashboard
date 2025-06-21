@@ -1,0 +1,48 @@
+# Superstore Sales Dashboard
+
+Welcome to my **Superstore Sales Dashboard** project!  
+This project explores sales data from a fictional Superstore using Excel for data cleaning, pivot analysis, and dashboard creation.
+
+---
+
+## 📈 Key Metrics
+- 🔁 **Repeat Customer %**: 98%
+- 💰 **Total Sales**: $2,261,536.78
+- 🧭 **Total States Covered**: 49
+- 👥 **Unique Customers**: 793
+- 📦 **Total Orders**: 4,922
+
+---
+
+## 📊 Dashboard Preview
+
+![Superstore Dashboard] https://github.com/DataByTaiye/Superstore-Sales-Dashboard/commit/55fc9abbc65214a43ec76f60f5acd52b209d2d8d
+
+---
+
+## 📂 Files in this Repository
+- `Superstore_Sales_Analysis.xlsx`: Contains raw data, pivot tables, all slicers, and the final dashboard.
+- `dashboard_screenshot.png`: A snapshot of the final Excel dashboard.
+
+---
+
+## 🔧 Tools Used
+- Microsoft Excel  
+- Pivot Tables  
+- Slicers and Charts  
+- Dashboard Design  
+- Data Cleaning and Formatting
+
+---
+
+## 💡 What I Learned
+- Creating dynamic and interactive dashboards with Excel
+- Using pivot tables effectively for multidimensional insights
+- Presenting key KPIs in a user-friendly, visual format
+
+---
+
+## 📬 Let's Connect!
+I'm open to feedback, collaboration, and new opportunities.  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/taiye-ojiyovwi-228b0426a).
+
